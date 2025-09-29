@@ -1,0 +1,18 @@
+These files are were compatible with JLCPCB at the time of release.
+
+File description:
+
+gerbers.zip
+PCB gerber files
+
+schematic.pdf
+PCB schematic
+
+BOM.csv
+Full PCB BOM
+
+SMT_BOM.csv
+PCB BOM for JLCPCB assembly components.
+
+SMT_positions.csv
+Placement file for JLCPCB assembly components.
