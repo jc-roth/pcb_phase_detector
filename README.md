@@ -1,6 +1,8 @@
 # pcb_phase_detector
 This repository contains the KiCAD schematic/PCB files for a circuit that generates an error signal for phase locking a laser. The circuit usage is described in [this paper](https://doi.org/10.1364/OE.572129).
 
+![Optical setup](https://opg.optica.org/getimagev2.cfm?img=GYjjEDgUPxfP3BkP1Ze4CY9POeCLWYujsuDbRGV0TRk%3D&uri=oe-33-20-42240-g001)
+
 ## Building/operating the circuit
 Either directly download gerber and BOM files from the releases page or download the KiCAD project and export to your liking. Feel free to shoot me an email with any questions.
 
