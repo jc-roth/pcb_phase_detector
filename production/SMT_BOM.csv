@@ -1,0 +1,5 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Digikey PN,LCSC #
+"C9,C10,C11,C12,C13,C14,C15,C16,C17",10n,~,Capacitor_SMD:C_0603_1608Metric,9,,,C57112
+"D1,D2,D3,D4",1N4148,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf,Diode_SMD:D_SOD-323_HandSoldering,4,,,C2128
+"R1,R2,R3,R4",100,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,,,C22775
+"R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R16,R17",220,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,12,,,C17557
