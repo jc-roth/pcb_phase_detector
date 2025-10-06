@@ -2,7 +2,7 @@
 "C9,C10,C11,C12,C13,C14,C15,C16,C17","10n","~","Capacitor_SMD:C_0603_1608Metric","9","","","C57112"
 "C18,C19","C_Small","~","Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm","2","","",""
 "D1,D2,D3,D4","1N4148","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf","Diode_SMD:D_SOD-323_HandSoldering","4","","","C2128"
-"HS1","Socket","~","","1","","A131991-ND",""
+"HS1","Socket","~","","1","","AE11103-ND",""
 "J1,J2","Conn_01x10_Pin","~","Connector_JST:JST_ZH_B10B-ZR_1x10_P1.50mm_Vertical","2","","455-S10B-ZR-ND",""
 "J4,J5,J6","Conn_Coaxial","~","Connector_Coaxial:SMA_Amphenol_132289_EdgeMount","3","","ACX1426-ND",""
 "R1,R2,R3,R4","100","~","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","4","","","C22775"
