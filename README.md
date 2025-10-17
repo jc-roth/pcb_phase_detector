@@ -4,6 +4,8 @@ This repository contains the KiCAD schematic/PCB files for a circuit that genera
 ## Building/operating the circuit
 Either directly download gerber and BOM files from the releases page or download the KiCAD project and export to your liking. Feel free to shoot me an email with any questions.
 
+Note that the part MC10H016P is stocked by Rochester Electronics, and can be difficult to find elsewhere.
+
 The +12V, +5V, and -12V power connections draw ~50mA each. The -5V power connection draws around 0.5A. The PCB is designed to fit in a Hammond enclosure and can be powered either by solder wires or a 10-pin JST connector, see [this repo](https://github.com/jc-roth/pcb_kicad_template) for more information about enclosure compatibility and power options.
 
 ## Circuit description
